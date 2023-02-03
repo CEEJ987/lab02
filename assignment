@@ -29,10 +29,10 @@ Within the terminal is a shell, which defines how your terminal behaves
 
 ## Navigating
 
-**pwd** - prints current directory
-**ls** - tells whats in the current directory
+- **pwd** - prints current directory
+- **ls** - tells whats in the current directory
 (ls can be used more powerfully)
-***ls (options) (location)***
+- ***ls (options) (location)***
 
 A ***path*** is the means to get to a particular directory or file
 
@@ -42,12 +42,12 @@ The Two different types of Paths : ***Absolute*** and ***Relative***
 - A ***Absolute Path*** describes the locaiton from the root directory
 
 ### Some Navigation Commands
-**~** is used as a shortcut to your home directory
-**.** is used to reference your current directory
-**..** is used to to reference the parent directory
+- **~** is used as a shortcut to your home directory
+- **.** is used to reference your current directory
+- **..** is used to to reference the parent directory
 (.. can be used to keep returning to the root directory)
 
-**cd** allows you to move in directories
+- **cd** allows you to move in directories
 (**Tip** Pressing Tab while typing a command can auto complete it for you.)
 
 ## Information about Files
