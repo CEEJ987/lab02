@@ -14,7 +14,7 @@ References
 ### The Command Line
 
 The Terminal is a text based interface that allows you to produce code to the computer.
-Basically, a simple form of an text editor
+Basically, a simple form of a text editor
 Adding, Deleting, and Moving Directories
 
 You start by entering commands like ls and using a command argument to specify
@@ -48,7 +48,7 @@ The Two different types of Paths : ***Absolute*** and ***Relative***
 (.. can be used to keep returning to the root directory)
 
 **cd** allows you to move in directories
-(Tip: Pressing Tab while typing a command can auto complete it for you!)
+(**Tip** Pressing Tab while typing a command can auto complete it for you.)
 
 ## Information about Files
 
